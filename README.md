@@ -6,6 +6,6 @@ Detailed video tutorials will follow to explain all this for beginners so that e
 
 For video tutorials check our Youtube channel:<br/> https://www.youtube.com/channel/UCmvJB1_IobMjYKCNBtuZBog
 
-For development tools updates follow our development Twitter account:<br/> https://twitter.com/ElrondUnityDev
+For development tools updates follow our development Twitter account:<br/> [https://twitter.com/XUnityTools](https://twitter.com/XUnityTools)
 
 For game updates follow our official Twitter account:<br/> https://twitter.com/ChainofIndustry  
